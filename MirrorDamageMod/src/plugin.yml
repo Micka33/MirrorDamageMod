@@ -1,0 +1,9 @@
+version: 0.01
+name: MirrorDamageMod
+main: io.github.micka33.MirrorDamageMod.MirrorDamageMod
+
+description: This pluggin forbids player to hit each other. It aims at creating a groups and the posibility to merge them
+website: none
+load: POSTWORLD
+database: false
+author: Micka33 
